@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a software developer who enjoys building fast, scalable, and well-structured applications. I’ve worked on both the backend and frontend, and I’m comfortable with DevOps and cloud stuff too. I like designing solid systems, writing clean code, and keeping up with the latest tech trends.
+
 
 <!--
 **JuanEOl/JuanEOl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
