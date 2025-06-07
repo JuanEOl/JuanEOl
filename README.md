@@ -14,6 +14,12 @@ I like designing solid systems, writing clean code, and keeping up with the late
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
+### 🌐 Frameworks & Libraries
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
+
+
 ### 🗃️ Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
